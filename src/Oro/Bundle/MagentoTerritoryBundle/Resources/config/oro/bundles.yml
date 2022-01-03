@@ -1,3 +1,0 @@
-bundles:
-   # Load after Territory bundle which defaults to 0 and MagentoBundle - 50
-    - { name: Oro\Bundle\MagentoTerritoryBundle\OroMagentoTerritoryBundle, priority: 60 }
